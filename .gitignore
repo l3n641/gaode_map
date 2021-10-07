@@ -1,0 +1,16 @@
+.env
+.idea
+.venv
+venv
+__pycache__/
+.env
+.idea
+.venv
+venv
+__pycache__/
+static/upload
+logs/
+pyc
+.pyc
+*.pyc
+.vscode
